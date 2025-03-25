@@ -8,7 +8,7 @@
 ## Hello, Devs!!!
 Possuo formação em Sistemas de Informação, com MBA em Gerenciamento de Projetos e especialização em Segurança de Redes. Após 16 anos de experiência em Infraestrutura de TI, atuando em 
 empresas de médio e grande. Em 2022, fiz minha transição para a área de Desenvolvimento de Software, desde então, atuo como Desenvolvedor Java, trabalhando com tecnologias como Spring Boot, 
-API Rest, Cypress, Jira, Jenkins, Maven, SQL e boas práticas como Clean Code e SOLID, versionamento de código GIT e GITHUB, Metodologias Ágeis Scrum. Em 2024, além da atuação como desenvolvedor, 
+API Rest, Cypress, Jira, Jenkins, Sonar, Maven, SQL e boas práticas como Clean Code e SOLID, versionamento de código GIT e GITHUB, Metodologias Ágeis Scrum. Em 2024, além da atuação como desenvolvedor, 
 passei a lecionar no curso de Ciência da Computação, contribuindo para a formação de novos profissionais da área.
 
 # Tenho Conhecimento 
