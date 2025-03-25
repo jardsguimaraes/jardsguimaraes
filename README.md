@@ -7,16 +7,14 @@
 
 ## Hello, Devs!!!
 Tenho 38 anos, moro em Maceió/AL sou Analista de Infraestrutura, porém em processo de transição de carreira para área de Desenvolvimento. Pretendo me tornar um Full Stack Java/JavaScritp.
-
-# Estou aprendendo
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
-
-
+Possuo formação em Sistemas de Informação, com MBA em Gerenciamento de Projetos e especialização em Segurança de Redes. Após 16 anos de experiência em Infraestrutura de TI, atuando em 
+empresas de médio e grande. Em 2022, fiz minha transição para a área de Desenvolvimento de Software, desde então, atuo como Desenvolvedor Java, trabalhando com tecnologias como Spring Boot, 
+API Rest, Cypress, Jira, Jenkins, Maven, SQL e boas práticas como Clean Code e SOLID, versionamento de código GIT e GITHUB, Metodologias Ágeis Scrum. Em 2024, além da atuação como desenvolvedor, 
+passei a lecionar no curso de Ciência da Computação, contribuindo para a formação de novos profissionais da área.
 
 # Tenho Conhecimento 
                   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>       
           
           
 <!--
