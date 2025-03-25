@@ -6,7 +6,6 @@
 </div>
 
 ## Hello, Devs!!!
-Tenho 38 anos, moro em Maceió/AL sou Analista de Infraestrutura, porém em processo de transição de carreira para área de Desenvolvimento. Pretendo me tornar um Full Stack Java/JavaScritp.
 Possuo formação em Sistemas de Informação, com MBA em Gerenciamento de Projetos e especialização em Segurança de Redes. Após 16 anos de experiência em Infraestrutura de TI, atuando em 
 empresas de médio e grande. Em 2022, fiz minha transição para a área de Desenvolvimento de Software, desde então, atuo como Desenvolvedor Java, trabalhando com tecnologias como Spring Boot, 
 API Rest, Cypress, Jira, Jenkins, Maven, SQL e boas práticas como Clean Code e SOLID, versionamento de código GIT e GITHUB, Metodologias Ágeis Scrum. Em 2024, além da atuação como desenvolvedor, 
